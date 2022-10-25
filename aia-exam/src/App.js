@@ -1,4 +1,5 @@
 import Flickr from "./front-end/flickr";
+// import Album from "./front-end/album";
 import "./App.css";
 
 function App() {
