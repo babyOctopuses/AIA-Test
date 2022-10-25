@@ -1,10 +1,10 @@
-import Gallery from "./front-end/gallery";
+import Flickr from "./front-end/flickr";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <Gallery />
+      <Flickr />
     </div>
   );
 }
